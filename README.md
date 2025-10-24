@@ -1,2 +1,21 @@
-# Qiskit-Quantum-Experiments
-Qiskit-based quantum circuits, QAOA/MaxCut experiments, Bloch-sphere utilities, and analysis scripts used for quantum computing research and tutorials.
+# Qiskit Quantum Experiments
+
+Collection of Qiskit-based quantum circuits, QAOA/MaxCut experiments, Bloch-sphere utilities, and supporting analysis scripts used for research and tutorials.
+
+## Highlights
+- QAOA MaxCut experiments (Qiskit Runtime)
+- Bloch-sphere creation and visualization utilities
+- Quantum circuit examples and learning scripts
+- Integration-ready examples and notebooks
+
+## Repository structure
+- `scripts/` — runnable Python scripts
+- `examples/` — short examples to reproduce experiments
+- `tests/` — unit tests
+
+## Quick start
+
+1. Clone:
+```bash
+git clone https://github.com/YOUR_USERNAME/qiskit-quantum-experiments.git
+cd qiskit-quantum-experiments
