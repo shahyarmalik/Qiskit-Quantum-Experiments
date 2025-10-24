@@ -23,3 +23,20 @@ cd Qiskit-Quantum-Experiments
 If you want to clone a specific branch (e.g., main), you could use:
 ```bash
 git clone --branch main https://github.com/shahyarmalik/Qiskit-Quantum-Experiment
+```
+2. Create and activate a virtual environment
+```bash
+python -m venv venv
+source venv/bin/activate     # On Linux/Mac
+venv\Scripts\activate        # On Windows
+```
+
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+4. Run experiments
+```bash
+python scripts/qaoa_experiment.py
+```
