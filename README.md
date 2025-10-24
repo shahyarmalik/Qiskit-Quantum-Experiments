@@ -17,5 +17,9 @@ Collection of Qiskit-based quantum circuits, QAOA/MaxCut experiments, Bloch-sphe
 
 1. Clone:
 ```bash
-git clone https://github.com/YOUR_USERNAME/qiskit-quantum-experiments.git
-cd qiskit-quantum-experiments
+git clone https://github.com/shahyarmalik/Qiskit-Quantum-Experiments.git
+cd Qiskit-Quantum-Experiments
+```
+If you want to clone a specific branch (e.g., main), you could use:
+```bash
+git clone --branch main https://github.com/shahyarmalik/Qiskit-Quantum-Experiment
