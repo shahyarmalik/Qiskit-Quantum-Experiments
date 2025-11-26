@@ -1,9 +1,10 @@
 # Qiskit Quantum Experiments
 
-Collection of Qiskit-based quantum circuits, QAOA/MaxCut experiments, Bloch-sphere utilities, and supporting analysis scripts used for research and tutorials.
+Collection of Qiskit-based quantum circuits,linear regression model, QAOA/MaxCut experiments, Bloch-sphere utilities, and supporting analysis scripts used for research and tutorials.
 
 ## Highlights
 - QAOA MaxCut experiments (Qiskit Runtime)
+- linear regression model (HHL)
 - Bloch-sphere creation and visualization utilities
 - Quantum circuit examples and learning scripts
 - Integration-ready examples and notebooks
